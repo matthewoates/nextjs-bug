@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://coachmatt.io
+
+# Sitemaps
+Sitemap: https://coachmatt.io/sitemap.xml
